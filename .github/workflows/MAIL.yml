@@ -2,8 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Каждые 6 часов
+    - cron: "0 */6 * * *"  
   workflow_dispatch:
+
+permissions:
+  contents: write 
 
 jobs:
   build:
@@ -11,25 +14,30 @@ jobs:
     
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
         with:
-          ref: master  # Указываем явно ветку
+          fetch-depth: 0  
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - name: Generate snake
         uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: nikitaZeynalov
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          gif_out_path: assets/github-contribution-grid-snake.gif
+          svg_out_path: assets/github-contribution-grid-snake.svg
 
-      - name: Create output directory
-        run: mkdir -p dist
+      - name: Create assets directory
+        run: mkdir -p assets
 
       - name: Commit and push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          commit_message: "Update snake animation [skip ci]"
-          force: false
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add assets/
+          git commit -m "Update snake animation [skip ci]"
+          git push
