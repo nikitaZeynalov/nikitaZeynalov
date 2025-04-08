@@ -13,9 +13,4 @@
 
 ---
 
-### 📈 **Моя статистика**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zmeykakaka&show_icons=true&theme=radical)  
-
----
-
 📧 **Email**: pk.ap.2003@inbox.ru 
