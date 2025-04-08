@@ -2,7 +2,7 @@
 # Привет, я Никита! 👋  
 💻 **Frontend-разработчик** | 🐍 **Java** | 
 
-![nikitaZeynalov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitaZeynalov&theme=synthwave&hide_border=false)
+![nikitaZeynalov's Stats](https://github-readme-stats.vercel.app/api?username=nikitaZeynalov&theme=synthwave&show_icons=true&hide_border=false&count_private=false)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/nikitanenikitane)
 [![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/zmeykaaae)
