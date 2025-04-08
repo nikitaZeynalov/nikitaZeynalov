@@ -4,6 +4,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/nikitanenikitane)
 [![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/zmeykaaae)
 ---
+ <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif
+"/>
 
 ### 🛠 **Мой стек технологий**  
 | Категория       | Технологии                                                                 |
