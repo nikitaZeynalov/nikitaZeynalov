@@ -12,6 +12,6 @@
 | **Языки**      | Java, JavaScript, SQL                                                  |
 | **Инструменты** | Docker, Git, PostgreSQL                                                  |
 
-![Snake animation](https://raw.githubusercontent.com/nikitaZeynalov/Zmeykakaka/main/assets/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/nikitaZeynalov/Zmeykakaka/output/github-contribution-grid-snake.gif)
 
 📧 **Email**: pk.ap.2003@inbox.ru 
