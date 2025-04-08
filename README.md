@@ -1,7 +1,4 @@
 # Zmeykakaka
-# Привет, я Никита! 👋  
-💻 **Frontend-разработчик** | 🐍 **Java** | 
-
 ![nikitaZeynalov's Stats](https://github-readme-stats.vercel.app/api?username=nikitaZeynalov&theme=synthwave&show_icons=true&hide_border=false&count_private=false)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/nikitanenikitane)
