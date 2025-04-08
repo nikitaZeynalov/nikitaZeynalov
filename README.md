@@ -1,6 +1,8 @@
 # Zmeykakaka
-# Привет, я [Никита]! 👋  
+# Привет, я Никита! 👋  
 💻 **Frontend-разработчик** | 🐍 **Java** | 
+
+![nikitaZeynalov's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nikitaZeynalov&theme=synthwave&hide_border=false)
 
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat&logo=telegram)](https://t.me/nikitanenikitane)
 [![ВКонтакте](https://img.shields.io/badge/-ВКонтакте-0077FF?style=flat-square&logo=vk&logoColor=white)](https://vk.com/zmeykaaae)
